@@ -7,28 +7,28 @@ Ce dépôt contient les solutions des exercices du TP4, portant sur les concepts
 Voici les captures d'écran des résultats (Outputs) pour chaque exercice du TP :
 
 ### 1. Initialisation et Spécialisation (Personne & Étudiant)
-![Output 1](./screenshots/output1.png)
+![Output 1](./screenshots2/output1.png)
 
 ### 2. Gestion de Véhicules (Constructeurs super)
-![Output 2](./screenshots/output2.png)
+![Output 2](./screenshots2/output2.png)
 
 ### 3. Système Bancaire (Héritage & Redéfinition)
-![Output 3](./screenshots/output3.png)
+![Output 3](./screenshots2/output3.png)
 
 ### 4. Polymorphisme Dynamique (Cris d'Animaux)
-![Output 4](./screenshots/output4_5.png)
+![Output 4](./screenshot2/output4_5.png)
 
 ### 5. Figures Géométriques (Polymorphisme)
-![Output 5](./screenshots/output7.png)
+![Output 5](./screenshots2/output7.png)
 
 ### 6. Abstraction et Calculs (Classe Forme)
-![Output 6](./screenshots/output8.png)
+![Output 6](./screenshots2/output8.png)
 
 ### 7. Interfaces et Capacités (Interface Volant)
-![Output 7](./screenshots/output9.png)
+![Output 7](./screenshots2/output9.png)
 
 ### 8. Cas d'étude : Bibliothèque Numérique
-![Output 8](./screenshots/output10.png)
+![Output 8](./screenshots2/output10.png)
 
 ---
 
